@@ -39,11 +39,13 @@ const zahabiya = {
   ],
   launchedProjects: [
     "SkillForge — Student Skill Management Platform",
-    "Financial Analysis Dashboard — Power BI dashboard for financial instruments, risk vs. return, and portfolio insights"
+    "Financial Analysis Dashboard — Power BI dashboard for financial instruments, risk vs. return, and portfolio insights",
+    "LocalGenie — Local marketplace connecting vendors with customers",
+    "Event Management iOS Application — Event scheduling app built with SwiftUI and Firebase"
   ],
   certifications: [
     "CSCU Certification",
-    "Apple Web App Development Certification"
+    "Apple iOS Application Development Certification"
   ],
   status: "Learning, building, and exploring AI/ML and data-driven solutions",
   openTo: "Job and internship opportunities"
@@ -90,6 +92,32 @@ A Power BI dashboard exploring financial instruments, risk versus return, and po
 </div>
 
 > Update the repository name and links if your actual GitHub repository uses a different name. No live demo link was provided.
+
+### 3. LocalGenie — Local Marketplace
+
+A marketplace connecting local vendors with customers looking for products and services. Features include vendor listings and search, service booking, ratings and reviews, SMS booking notifications, and an admin panel.
+
+| Layer | Technology |
+|---|---|
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Python, PHP |
+| Database / Local Environment | MySQL, XAMPP |
+
+[**Find my repositories**](https://github.com/zahabiya0914?tab=repositories)
+
+### 4. Event Management iOS Application
+
+A mobile application for managing events, with user authentication, event scheduling, and real-time data synchronization.
+
+| Layer | Technology |
+|---|---|
+| iOS App | SwiftUI |
+| Authentication | Firebase Authentication |
+| Database | Firebase Firestore |
+
+[**Find my repositories**](https://github.com/zahabiya0914?tab=repositories)
+
+> Specific repository names and live demo links were not provided for these two projects, so the links above open your repository list instead of guessing project URLs.
 
 ## 🧰 Tech Stack
 
