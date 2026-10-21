@@ -5,6 +5,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=34d399&height=180&section=header&text=Zahabiya%20Lightwala&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Zahabiya header" />
+<h3>MCA Student | AI/ML &amp; Data Science</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=Exploring+AI%2FML+and+Data+Science;Building+student-focused+projects;Turning+data+into+useful+insights;Learning+with+Python+and+Java" alt="Typing animation" />
 
