@@ -5,15 +5,14 @@
 
 <div align="center">
 
-<h1>Hi, I'm Zahabiya Lightwala 👋</h1>
-<h3>MCA Student | AI/ML &amp; Data Science</h3>
+![Waving header banner](https://capsule-render.vercel.app/api?type=waving&color=34d399&height=180&section=header&text=Zahabiya%20Lightwala&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20%7C%20AI%2FML%20%26%20Data%20Science&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Exploring+AI%2FML+and+Data+Science;Building+student-focused+projects;Turning+data+into+useful+insights;Learning+with+Python+and+Java" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=Exploring+AI%2FML+and+Data+Science;Building+student-focused+projects;Turning+data+into+useful+insights;Learning+with+Python+and+Java" alt="Typing animation" />
 
 <br/><br/>
 
-<a href="https://github.com/zahabiya0914"><img src="https://komarev.com/ghpvc/?username=zahabiya0914&amp;label=Profile%20Views&amp;color=34d399&amp;style=for-the-badge" alt="Profile views" /></a>
-<a href="https://github.com/zahabiya0914?tab=followers"><img src="https://img.shields.io/github/followers/zahabiya0914?label=Followers&amp;style=for-the-badge&amp;color=34d399" alt="GitHub followers" /></a>
+<a href="https://github.com/zahabiya0914"><img src="https://komarev.com/ghpvc/?username=zahabiya0914&label=Profile%20Views&color=34d399&style=for-the-badge" alt="Profile views" /></a>
+<a href="https://github.com/zahabiya0914?tab=followers"><img src="https://img.shields.io/github/followers/zahabiya0914?label=Followers&style=for-the-badge&color=34d399" alt="GitHub followers" /></a>
 <a href="https://github.com/zahabiya0914"><img src="https://img.shields.io/badge/Open%20to%20Work-Yes-34d399?style=for-the-badge" alt="Open to work" /></a>
 
 </div>
@@ -63,7 +62,7 @@ A student-focused platform for managing skills and helping students discover sha
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahabiya0914&repo=SkillForge&theme=nord&border_color=34d399" alt="SkillForge repository card" />
 
-[**Live Demo**](#) · [**Code**](https://github.com/zahabiya0914/SkillForge)
+[**Code**](https://github.com/zahabiya0914/SkillForge)
 
 </div>
 
@@ -82,7 +81,7 @@ A Power BI dashboard exploring financial instruments, risk versus return, and po
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahabiya0914&repo=financial-analysis-dashboard&theme=nord&border_color=34d399" alt="Financial Analysis Dashboard repository card" />
 
-[**Live Demo**](#) · [**Code**](https://github.com/zahabiya0914/financial-analysis-dashboard)
+[**Code**](https://github.com/zahabiya0914/financial-analysis-dashboard)
 
 </div>
 
@@ -98,7 +97,15 @@ A marketplace connecting local vendors with customers looking for products and s
 | Backend | Python, PHP |
 | Database / Local Environment | MySQL, XAMPP |
 
+<div align="center">
+
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=zahabiya0914&repo=LocalGenie&theme=nord&border_color=34d399">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zahabiya0914&repo=LocalGenie&theme=nord&border_color=34d399" alt="LocalGenie repository card" />
+</a>
+
 [**Code: LocalGenie**](https://github.com/zahabiya0914/LocalGenie)
+
+</div>
 
 ### 4. Event Management iOS Application
 
