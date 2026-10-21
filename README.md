@@ -5,21 +5,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=34d399&height=180&section=header&text=Zahabiya%20Lightwala&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20%7C%20AI%2FML%20%26%20Data%20Science&descAlignY=58&descSize=18" alt="Waving header banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=Exploring+AI%2FML+and+Data+Science;Building+student-focused+projects;Turning+data+into+useful+insights;Learning+by+building+with+Python+and+Java" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=34d399&amp;height=180&amp;section=header&amp;text=Zahabiya%20Lightwala&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=MCA%20Student%20%7C%20AI%2FML%20%26%20Data%20Science&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Zahabiya Lightwala — MCA Student, AI/ML and Data Science" />
 
 <br/>
 
-<a href="https://github.com/zahabiya0914">
-  <img src="https://komarev.com/ghpvc/?username=zahabiya0914&label=Profile%20Views&color=34d399&style=for-the-badge" alt="Profile views" />
-</a>
-<a href="https://github.com/zahabiya0914?tab=followers">
-  <img src="https://img.shields.io/github/followers/zahabiya0914?label=Followers&style=for-the-badge&color=34d399" alt="GitHub followers" />
-</a>
-<a href="https://github.com/zahabiya0914">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-34d399?style=for-the-badge" alt="Open to work" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=34D399&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Exploring+AI%2FML+and+Data+Science;Building+student-focused+projects;Turning+data+into+useful+insights;Learning+with+Python+and+Java" alt="Typing animation" />
+
+<br/><br/>
+
+<a href="https://github.com/zahabiya0914"><img src="https://komarev.com/ghpvc/?username=zahabiya0914&amp;label=Profile%20Views&amp;color=34d399&amp;style=for-the-badge" alt="Profile views" /></a>
+<a href="https://github.com/zahabiya0914?tab=followers"><img src="https://img.shields.io/github/followers/zahabiya0914?label=Followers&amp;style=for-the-badge&amp;color=34d399" alt="GitHub followers" /></a>
+<a href="https://github.com/zahabiya0914"><img src="https://img.shields.io/badge/Open%20to%20Work-Yes-34d399?style=for-the-badge" alt="Open to work" /></a>
 
 </div>
 
