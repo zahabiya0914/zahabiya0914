@@ -143,13 +143,14 @@ A mobile application for managing events, with user authentication, event schedu
 
 **AI / Data / Databases**
 
+**AI / Data / Databases**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL" />
-  <br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-34d399?style=flat-square&logo=scikitlearn&logoColor=111827" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-34d399?style=flat-square&logo=databricks&logoColor=111827" alt="Data Science" />
-  <img src="https://img.shields.io/badge/NLP-34d399?style=flat-square&logo=googlenaturalanguage&logoColor=111827" alt="Natural Language Processing" />
-  <img src="https://img.shields.io/badge/Power%20BI-34d399?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-34d399?style=for-the-badge&logo=scikitlearn&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Data%20Science-34d399?style=for-the-badge&logo=databricks&logoColor=111827" />
+  <img src="https://img.shields.io/badge/NLP-34d399?style=for-the-badge&logo=googlenaturallanguage&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Power%20BI-34d399?style=for-the-badge&logo=powerbi&logoColor=111827" />
+  <img src="https://img.shields.io/badge/SQL-34d399?style=for-the-badge&logo=postgresql&logoColor=111827" />
 </p>
 
 **Developer Tools**
