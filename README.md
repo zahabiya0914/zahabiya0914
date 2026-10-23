@@ -126,7 +126,6 @@ A mobile application for managing events, with user authentication, event schedu
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Python, Java, HTML, CSS, JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-34d399?style=flat-square&logo=postgresql&logoColor=111827" alt="SQL" />
 </p>
 
 **Frontend**
